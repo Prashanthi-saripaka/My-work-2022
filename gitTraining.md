@@ -12,7 +12,7 @@ git status
 
 git add -A --> will stage all the changes 
 
-git add <file-name> --> will add that specific file
+git add your-file-name-with-extension --> will add that specific file
 
 #########To commit your changes 
 
@@ -28,4 +28,4 @@ git push -f
 
 #########To push a commit while creating a new branch  
 
-git push --set-upstream origin <your-branch-name>
+git push --set-upstream origin your-branch-name
